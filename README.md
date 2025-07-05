@@ -6,7 +6,7 @@ Course Page: [https://www.bereyhi.com/deep-learning](https://bereyhi-courses.git
 
 The repository contains handouts and  all the source code for Assignments 1-3 programming section (No short answer parts)
 
-Assignment 1: 
+Assignment 1: 94/100
 
 Assignment 2:
 
