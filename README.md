@@ -8,9 +8,9 @@ The repository contains handouts and  all the source code for Assignments 1-3 pr
 
 Assignment 1: 94/100
 
-Assignment 2:
+Assignment 2: 95/100
 
-Assignment 3: 
+Assignment 3: 88/100
 
 
 (All marks are final marks together with short answer parts)
