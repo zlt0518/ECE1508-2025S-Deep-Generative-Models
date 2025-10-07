@@ -1,6 +1,6 @@
 # ECE1508-2025S-Deep-Generative-Models-Assignment
 
-ECE1508S: Special Topics in Communications: Deep Generative Models 2025 Summer Assignments Programming Sections at the University of Toronto taught by Prof.Ali Bereyhi
+ECE1508Y: Special Topics in Communications: Deep Generative Models 2025 Summer Assignments Programming Sections at the University of Toronto taught by Prof.Ali Bereyhi
 
 Course Page: [https://www.bereyhi.com/deep-learning](https://bereyhi-courses.github.io/genai-utoronto/)
 
