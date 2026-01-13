@@ -15,4 +15,4 @@ Assignment 3: 88/100
 
 (All marks are final marks together with short answer parts)
 
-Please follow the academic integrity at the University of Toronto.
+**Please follow the academic integrity at the University of Toronto.**
